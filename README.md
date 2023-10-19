@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-Solid Icons
+Solid Iconszz
 </h1>
 <p align="center">
 Modern solution for use icons on SolidJS
